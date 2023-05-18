@@ -19,3 +19,4 @@ tracking state and allocate sensor resources effectively
 
 More information in : 
 [Radar-Report-RamShirazi.pdf](https://github.com/ramshi236/Beam-Scheduling-Algorithm-/files/6861679/Radar-Report-RamShirazi.pdf)
+![image](https://github.com/ramshi236/Beam-Scheduling-Algorithm-/assets/72392859/21cf46df-5cc5-481b-afcb-bc2bb6eccb8e)
